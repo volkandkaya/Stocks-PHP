@@ -1,6 +1,8 @@
 ## Stock of the Day 
 
-## Uses PHP, Bootstrap and Yahoo Fiance API
+## Uses PHP(Laravel), Bootstrap and Yahoo Finance API
+
+###Also got to use VirtualBox, Vagrant and Homestead
 
 ## Extra features for the future
 
